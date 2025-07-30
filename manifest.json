@@ -1,0 +1,8 @@
+{
+  "name": "UnityExplorerPlaceholderToggle",
+  "version_number": "0.0.1",
+  "website_url": "https://github.com/youraveragemathstudent/Placeholder_unity_explorer",
+  "description": "Toggles UnityExplorer on or off in r2modman before startup.",
+  "dependencies": [],
+  "icon": "icon.png"
+}
