@@ -1,8 +1,10 @@
 {
-  "name": "UnityExplorerPlaceholderToggle",
-  "version_number": "0.0.1",
-  "website_url": "https://github.com/youraveragemathstudent/Placeholder_unity_explorer",
-  "description": "Toggles UnityExplorer on or off in r2modman before startup.",
-  "dependencies": [],
-  "icon": "icon.png"
+    "name": "UnityExplorerPlaceholderToggle",
+    "version_number": "0.0.1",
+    "website_url": "https://github.com/youraveragemathstudent/Placeholder_unity_explorer",
+    "description": "Toggles UnityExplorer user inputted files on or off in r2modman before startup.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+    "Hydraxous-Configgy-1.0.6"
+    ]
 }
